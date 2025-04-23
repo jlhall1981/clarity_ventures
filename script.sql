@@ -1,0 +1,15 @@
+CREATE DATABASE EmailLogs;
+GO
+
+USE EmailLogs;
+GO
+
+CREATE TABLE EmailLogs (
+	Id  INT IDENTITY(1,1) PRIMARY KEY,
+	Sender NVARCHAR(255),
+	Recipient NVACHAR(255),
+	Subject NVACHAR(255),
+	Body NVACHAR(MAX),
+	SentDate DATETIME,
+	Status NVACHAR(255)
+);

@@ -1,0 +1,22 @@
+<Window x:Class="EmailService.WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Email Sender" Height="400" Width="600">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Recipient Email:"/>
+        <TextBox Grid.Row="1" x:Name="RecipientTextBox" Margin="0,5"/>
+
+        <TextBlock Grid.Row="2" Text="Message:"/>
+        <TextBox Grid.Row="3" x:Name="BodyTextBox" AcceptsReturn="True" Margin="0,5"/>
+
+        <Button Grid.Row="4" Content="Send Email" Click="SendEmail_Click" Width="100" HorizontalAlignment="Right"/>
+    </Grid>
+</Window>
