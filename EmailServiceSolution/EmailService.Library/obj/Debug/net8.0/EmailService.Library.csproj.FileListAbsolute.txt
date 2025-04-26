@@ -1,0 +1,11 @@
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Library\bin\Debug\net8.0\EmailService.Library.deps.json
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Library\bin\Debug\net8.0\EmailService.Library.dll
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Library\bin\Debug\net8.0\EmailService.Library.pdb
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Library\obj\Debug\net8.0\EmailService.Library.csproj.AssemblyReference.cache
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Library\obj\Debug\net8.0\EmailService.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Library\obj\Debug\net8.0\EmailService.Library.csproj.CoreCompileInputs.cache
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Library\obj\Debug\net8.0\EmailService.Library.sourcelink.json
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Library\obj\Debug\net8.0\EmailService.Library.dll
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Library\obj\Debug\net8.0\refint\EmailService.Library.dll
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Library\obj\Debug\net8.0\EmailService.Library.pdb
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Library\obj\Debug\net8.0\ref\EmailService.Library.dll

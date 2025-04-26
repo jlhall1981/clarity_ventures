@@ -1,0 +1,14 @@
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Logging\bin\Debug\net8.0\EmailService.Logging.deps.json
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Logging\bin\Debug\net8.0\EmailService.Logging.dll
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Logging\bin\Debug\net8.0\EmailService.Logging.pdb
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Logging\bin\Debug\net8.0\EmailService.Library.dll
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Logging\bin\Debug\net8.0\EmailService.Library.pdb
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Logging\obj\Debug\net8.0\EmailService.Logging.csproj.AssemblyReference.cache
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Logging\obj\Debug\net8.0\EmailService.Logging.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Logging\obj\Debug\net8.0\EmailService.Logging.csproj.CoreCompileInputs.cache
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Logging\obj\Debug\net8.0\EmailService.Logging.sourcelink.json
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Logging\obj\Debug\net8.0\EmailSer.D171F7BC.Up2Date
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Logging\obj\Debug\net8.0\EmailService.Logging.dll
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Logging\obj\Debug\net8.0\refint\EmailService.Logging.dll
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Logging\obj\Debug\net8.0\EmailService.Logging.pdb
+D:\code\clarity_ventures\EmailServiceSolution\EmailService.Logging\obj\Debug\net8.0\ref\EmailService.Logging.dll
